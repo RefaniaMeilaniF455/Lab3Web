@@ -10,7 +10,8 @@
 ![Screenshot 2024-10-15 221837](https://github.com/user-attachments/assets/a09c2034-9f1b-4993-b691-6567225e465d)
 
 # Membuat Table
-![Screenshot 2024-10-15 223434](https://github.com/user-attachments/assets/f1b3547e-8a0d-43c8-88dd-3d7ffdb1f67b)
+![image](https://github.com/user-attachments/assets/283769cb-0f75-440c-83a8-a9fab7497a02)
+
 
 
  
