@@ -16,6 +16,14 @@
 2. Table 2
 ![Screenshot 2024-10-16 073708](https://github.com/user-attachments/assets/c4bd10d7-5e87-4cd2-9812-b80247a6c6ab)
 
+# Membuat From
+1. From 1
+![image](https://github.com/user-attachments/assets/5613d21f-a6cd-4122-af91-5df891415944)
+
+2. From 2
+![image](https://github.com/user-attachments/assets/821fcf29-7892-470b-bc8f-7c7b6fb8e5f8)
+
+
 
 
 
