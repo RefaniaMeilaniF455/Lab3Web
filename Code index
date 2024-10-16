@@ -1,0 +1,88 @@
+# Create Data List
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membuat Table</title>
+</head>
+<body>
+    <header>
+        <h1>Membuat Table</h1>
+    </header>
+<table border="1" cellpadding="6" cellspacing="0">
+    <thead>
+        <tr>
+            <th>No.</th>
+            <th>Fakultas</th>
+            <th>Program Studi</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1.</td>
+            <td rowspan="3">Teknik</td>
+            <td>Teknik Informasi</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>Teknik</td>
+            <td>Teknik Industri</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>Teknik</td>
+            <td>Teknik Lingkungan</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
+
+# Membuat Table
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membuat From</title>
+</head>
+<body>
+    <header>
+        <h1>Membuat List</h1>
+    </header>
+<section id="Order-list">
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Pemograman Web</li>
+        <li>Sistem Informasi</li>
+        <li>Basis Data</li>
+    </ol>
+</section>
+
+<section id="Unorder-list">
+    <h2>Urodered List</h2>
+    <ol>
+        <li>Jaringan Komputer</li>
+        <li>Struktur Data</li>
+        <li>Algooritma &amp; Pemograman</li>
+    </ol>
+</section>
+
+<section id="Unorder-list">
+    <h2>Description List</h2>
+    <dl>
+        <dt>Fakultas Teknik</dt>
+        <dd>Fakultas Industri</dd>
+        <dd>Fakultas Informatika</dd>
+        <dd>Fakultas Lingkungan</dd>
+        <dt>Fakultas Ekonomi dan Bisnis</dt>
+        <dd>Akuntansi</dd>
+        <dd>Manajemen</dd>
+        <dd>Bisnis Digital</dd>
+    </dl>    
+</section>
+
+</body>
+</html>
+
