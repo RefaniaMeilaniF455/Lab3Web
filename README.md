@@ -10,7 +10,12 @@
 ![Screenshot 2024-10-15 221837](https://github.com/user-attachments/assets/a09c2034-9f1b-4993-b691-6567225e465d)
 
 # Membuat Table
+1. Table 1
 ![image](https://github.com/user-attachments/assets/283769cb-0f75-440c-83a8-a9fab7497a02)
+
+2. Table 2
+![Screenshot 2024-10-16 073708](https://github.com/user-attachments/assets/c4bd10d7-5e87-4cd2-9812-b80247a6c6ab)
+
 
 
 
